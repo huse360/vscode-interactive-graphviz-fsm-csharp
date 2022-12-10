@@ -1,7 +1,7 @@
 {
     "name": "fsm-swift-preview",
     "displayName": "FSM Swift Preview",
-    "description": "Finite State Machine (C#) Interactive Preview",
+    "description": "Finite State Machine (Swift) Interactive Preview",
     "version": "0.3.5",
     "keywords": [
         "dot",
@@ -19,11 +19,11 @@
         "Programming Languages"
     ],
     "bugs": {
-        "url": "https://github.com/huse360/vscode-interactive-graphviz-fsm-csharp/issues"
+        "url": "https://github.com/huse360/vscode-interactive-graphviz-fsm-csharp/tree/swift/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/huse360/vscode-interactive-graphviz-fsm-csharp"
+        "url": "https://github.com/huse360/vscode-interactive-graphviz-fsm-csharp/tree/swift"
     },
     "main": "./dist/extension.js",
     "browser": "./dist/extension.js",
