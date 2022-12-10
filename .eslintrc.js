@@ -17,6 +17,7 @@ module.exports = {
     "@typescript-eslint",
   ],
   rules: {
+    "no-console": "off",
     indent: ["error", 2],
     quotes: ["error", "double"],
     "import/no-import-module-exports": "off",

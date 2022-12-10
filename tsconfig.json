@@ -3,6 +3,7 @@
         "./node_modules/@types"
     ],
     "compilerOptions": {
+        "sourceMap": true,
         "module": "commonjs",
         "target": "ES2020",
         "lib": [
